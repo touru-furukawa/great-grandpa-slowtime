@@ -1,20 +1,20 @@
-logline: TODO
+logline: 亡くなった大叔父の小屋を片付けていたら、大叔父が私を自立できるよう気遣ってくれていたこと、そして、タイムマシンを発明していたことを知る
 readers: TODO
-concept: TODO
+concept: 大叔父の小屋がタイムマシンだったら？
 theme: TODO
 characters:
   - main:
-      outside: TODO
-      inside: TODO
-      history: TODO
-      ordeal: TODO
+      outside: 主人公は30代の大柄な女性で、プログラマー。
+      inside: 人づきあいを恐れて、ひとりでいることを好む。
+      history: 両親や祖父母からは容姿や性格のせいで疎まれたが、変わり者で大柄な技術者だった大伯父は、性別や容姿に関係なく優しくされて、プログラマーになった。
+      ordeal: ひとりで生きていく。
   - sub:
       outside: TODO
       inside: TODO
       history: TODO
 settings:
-  - いつどこで: TODO
-  - だれがなにをする: TODO
-  - ITEM:
-      description: blah blah blah
-      depends_on: ANOTHER ITEM
+  - いつどこで: 亡くなった大叔父の小屋で
+  - だれがなにをする: 私は大叔父がタイムマシンを作っていたことを知る
+  - ボン:
+      description: 時間逆行を停止させるためのコマンド
+      depends_on: null
